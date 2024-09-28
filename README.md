@@ -13,3 +13,9 @@
 9. https://github.com/poeti8/unknown-pleasures
 10. https://github.com/logotip4ik/portfolio
 11. https://github.com/d3adrabbit/origami
+12. https://github.com/victorcodess/folio-v1
+13. https://github.com/chrisgannon/ScrollLottie
+14. https://github.com/AbhishekShrivastav73/Front-End-Domination-With-Sheryians-Coding-Schools-
+15. https://github.com/webdesignermsk/Portfolio
+16. https://github.com/jinhomun/Portfolio-react
+17. 
