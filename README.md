@@ -50,4 +50,12 @@
 46. https://github.com/aryavcr/Syne
 47. https://github.com/vikasipar/cuberto
 48. https://github.com/adrianvla/morisinc.net
-49. 
+49. https://github.com/15970nikunj/redsofa-clone
+50. https://github.com/Aleksandr2905/ecosolution
+51. https://github.com/progikusok/mishqua.dev
+52. https://github.com/W-Tania/WebAnimation2
+53. https://github.com/ayushlingayat/Kothik_GSAP_Restaurant
+54. https://github.com/cesarolvr/slider-nextjs-gsap-app
+55. https://github.com/abolfazlNik/DevPortfolio
+56. https://github.com/Gagandeep-2003/landing-page-gsap-locomotive
+57. 
